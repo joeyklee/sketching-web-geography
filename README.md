@@ -12,7 +12,7 @@ This book is about developing web literacy for anyone making maps and visualizin
 
 
 ## Who is this book for
-This book is made for people who want to use the power of code and the interactivity of the web to make make and develop maps. 
+This book is made for people who want to use the power of code and the interactivity of the web to visualize geographic data.  
 
 ## Conventions used in this book
 
