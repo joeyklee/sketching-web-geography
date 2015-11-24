@@ -1,7 +1,11 @@
 # Getting Started
 
-## Sketching with Code
-In this book, we will use [P5.js](http://p5js.org/) - a JavaScript library that starts with the original goal of [Processing](https://processing.org/) to make coding accessible for artists, designers, educators, and beginners and reinterprets this for today's web. By using P5.js, we can take advantage of the extensive documentation and its focus on "lego blocking" code to incrementally build visuals, and in our case, maps for the web. 
+## The web, Code, and Maps
+In this book, we will use [P5.js](http://p5js.org/) as the primary framework for "lego blocking" code to incrementally build visuals, and in our case, maps for the web. P5.js is a JavaScript library that starts with the original goal of [Processing](https://processing.org/) - to make coding accessible for artists, designers, educators, and beginners - and reinterprets this for today's web. 
+
+By using P5.js, we can take advantage of the extensive documentation, diverse community, and growing code base to develop our understanding of coding web based maps. 
+
+We will also use [Leaflet.js]() to work with interactive web maps and "slippy maps", and [Turf.js]() to do geoprocessing on the web. 
 
 ## Setup
 
