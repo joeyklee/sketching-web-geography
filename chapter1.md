@@ -1,9 +1,7 @@
 # Getting Started
 
 ## Sketching with Code
-We begin by 
-
-### P5.js / Processing  
+In this book, we will use [P5.js](http://p5js.org/) - a JavaScript library that starts with the original goal of [Processing](https://processing.org/) to make coding accessible for artists, designers, educators, and beginners and reinterprets this for today's web. By using P5.js, we can take advantage of the extensive documentation and its focus on "lego blocking" code to incrementally build visuals, and in our case, maps for the web. 
 
 ## Setup
 
