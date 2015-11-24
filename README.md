@@ -5,3 +5,17 @@ Introduction
 
 <!--This is an experiment to sketch out how geographic information systems (GIS) are changing with the development of  -->
 
+
+## How this is organized
+
+
+## Who is this book for
+
+
+## Conventions used in this book
+
+
+## Code examples
+
+## Acknowledgements
+
