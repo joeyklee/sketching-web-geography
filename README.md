@@ -18,7 +18,7 @@ This book is made for people who want to use the power of code and the interacti
 
 
 ## Code examples
-
+The code examples can be found here: [link to github repo]()
 
 ## Acknowledgements
-
+This book is made possible by ... , and the Mozilla Science Lab. 
