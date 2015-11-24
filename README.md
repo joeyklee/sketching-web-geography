@@ -12,6 +12,7 @@ This book is about developing web literacy for anyone making maps and visualizin
 
 ## How this is organized
 The chapters in this book are organized as follows:
+
 ...
 
 ## Who is this book for
