@@ -16,7 +16,7 @@ The chapters in this book are organized as follows:
 ...
 
 ## Who is this book for
-This book is made for people who want to use the power of code and the interactivity of the web to visualize geographic data.   
+This book is made for people who want to use the power of code and the interactivity of the web to work with and visualize geographic data. It is for 
 
 ## Conventions used in this book
 
