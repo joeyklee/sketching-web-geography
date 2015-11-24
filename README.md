@@ -9,10 +9,10 @@ This book is about developing web literacy for anyone making maps and visualizin
 
 
 ## How this is organized
-
+The chapters in this book are organized to develop 
 
 ## Who is this book for
-This book is made for people who want to use the power of code and the interactivity of the web to visualize geographic data.  
+This book is made for people who want to use the power of code and the interactivity of the web to visualize geographic data.   
 
 ## Conventions used in this book
 
