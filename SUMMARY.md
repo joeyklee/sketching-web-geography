@@ -1,3 +1,8 @@
 # Summary
 
-* [Getting Started](chapter1.md)
+* [Introduction](README.md)
+* [First Chapter](chapter1.md)
+   * hello
+* [Second Chapter](chapter2.md)
+   * hi
+
