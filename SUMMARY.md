@@ -9,8 +9,8 @@
     * [How to use the code repository](introduction/how-to-use-the-code-repository.md) 
 
 
-* [Basic Principles](basic-principles):
-    * [Introduction to the Web](basic-principles/introduction-to-the-web) 
+* [Basic Principles](basic-principles/readme.md):
+    * [Introduction to the Web](basic-principles/introduction-to-the-web/readme.md) 
         * [Web Technologies](basic-principles/introduction-to-the-web/web-technologies.md)
         * [...]()
         * [...]()
