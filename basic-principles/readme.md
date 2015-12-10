@@ -1,0 +1,2 @@
+# Basic Principles
+In this section the basic principles of the web and maps are demonstrated. We conceptualize the relationship between the web and maps as X main aspects, namely: lorem, ipsum, deloris, lorem. 
