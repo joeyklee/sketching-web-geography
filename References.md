@@ -8,4 +8,4 @@
 * [Visualizing Data - Ben Fry]()
 * [Data Points - Nathan Yau]()
 * [Generative Design - Hartmut Bohnacker, Benedikt Groß, Julia Laub, Claudius Lazzeroni (editor)]()
-* 
+
