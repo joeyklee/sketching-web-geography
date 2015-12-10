@@ -10,8 +10,7 @@
 * [Basic Principles](basic-principles):
     * [Introduction to the Web](introduction-to-the-web) 
         * [Web Technologies](basic-principles/introduction-to-the-web/web-technologies.md)
-        * []()
-        * []()
-    * []()
+        * [...]()
+        * [...]()
 
 
