@@ -2,7 +2,7 @@
 
 ***
 ### Sketching Web Geography 
-#### Reading and Writing Geography on the Web
+#### Reading and Writing Maps on the Web
 
 ***
 ##### with: Joey Lee 
