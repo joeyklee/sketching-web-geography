@@ -1,6 +1,6 @@
 # Summary
 
-[Splash](README.md)
+[](README.md)
 
 Introduction:
 
