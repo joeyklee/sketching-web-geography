@@ -10,6 +10,7 @@
 
 Getting Started: 
 
-* [Introduction](introduction.md)
-* [First Chapter](chapter1.md)
+* [Getting Started](getting-started):
+    * [Introduction to the Web](introduction-to-the-web.md)
+    * [First Chapter](chapter1.md)
 
